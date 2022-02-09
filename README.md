@@ -8,7 +8,10 @@
 
 ###### Update 09-02-2022
 ```
-1. The X-carriage BL Touch mod for Switchwire was made for e3d V6 Hotend only. So i have decided to drop it. After several suggestions regarding the BL touch not perforimg well in a fully enclosed printer, i decided to go with an inductive probe. But it's creator M. Kanawati was kind enough to offer me custom design files sepcific for my hotend. But as i have said, i am moving towards inductive probe.
+1. The X-carriage BL Touch mod for Switchwire was made for e3d V6 Hotend only. So i have decided to drop it.
+After several suggestions regarding the BL touch not perforimg well in a fully enclosed printer, i decided to
+go with an inductive probe. But it's creator M. Kanawati was kind enough to offer me custom design files
+sepcific for my hotend. But as i have said, i am moving towards inductive probe.
 
 2. Added the rail guides for MGN12H linear rails and 4040 extrusion rail guide as per subscribers' request.
 
