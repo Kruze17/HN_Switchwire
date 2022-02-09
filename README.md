@@ -3,7 +3,7 @@
 ***These are the repositories you will need to visit in order to get required STL files and more information. I just simply cannot host them in my repo as the creators have put so much effort and time in building and documenting their own versions of designs. Peace.***  
 [DaRk_dOg's](https://github.com/boubounokefalos) Ender_SW: https://github.com/boubounokefalos/Ender_SW  
 [Badnoob's](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Badnoob) AB BN 30: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Badnoob/AB-BN  
-~~[M. Kanawati's](https://github.com/kanawati975) BL Touch X-carriage mod for Switchwire: https://github.com/kanawati975/Voron_Switchwire/tree/main/BL-Touch  ~~
+~~[M. Kanawati's](https://github.com/kanawati975) BL Touch X-carriage mod for Switchwire: https://github.com/kanawati975/Voron_Switchwire/tree/main/BL-Touch~~  
 [henrikssn's](https://github.com/henrikssn) Euler Extruder: https://github.com/henrikssn/VoronUsers/tree/euler/printer_mods/henrikssn/euler_extruder  
 
 ###### Update 09-02-2022
