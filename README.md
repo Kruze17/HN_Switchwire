@@ -17,3 +17,9 @@
 
 3. Added the modified the x-axis drag chain anchor for euler extruder for switchwire, in case you guys want it.
 ```
+###### Update 28-02-2022
+```
+1. Added my printer's hartk Toolhead PCB rev3.2 wiring diagram with Creality v4.2.2 board.
+
+2. Added my printer's klipper config files for user reference.
+```
