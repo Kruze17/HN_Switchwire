@@ -23,3 +23,7 @@
 
 2. Added my printer's klipper config files for user reference.
 ```
+###### Update 7-03-2022
+```
+1. Added my printer's slicer configs.
+```
