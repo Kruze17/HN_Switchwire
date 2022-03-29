@@ -1,5 +1,7 @@
 # HN_Switchwire
 ## This repository hosts the files that are needed to the build my version of the Voron Switchwire from Ender 3 Pro.  
+![alt text](https://github.com/Kruze17/HN_Switchwire/blob/main/Images/HN_switchwire_side.jpg)
+![alt text](https://github.com/Kruze17/HN_Switchwire/blob/main/Images/HN_switchwire_front.jpg)
 ***These are the repositories you will need to visit in order to get required STL files and more information. I just simply cannot host them in my repo as the creators have put so much effort and time in building and documenting their own versions of designs. Peace.***  
 [DaRk_dOg's](https://github.com/boubounokefalos) Ender_SW: https://github.com/boubounokefalos/Ender_SW  
 [Badnoob's](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Badnoob) AB BN 30: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Badnoob/AB-BN  
