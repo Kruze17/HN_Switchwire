@@ -5,7 +5,7 @@
 [Badnoob's](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Badnoob) AB BN 30: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Badnoob/AB-BN  
 ~~[M. Kanawati's](https://github.com/kanawati975) BL Touch X-carriage mod for Switchwire: https://github.com/kanawati975/Voron_Switchwire/tree/main/BL-Touch~~  
 [henrikssn's](https://github.com/henrikssn) Euler Extruder: https://github.com/henrikssn/VoronUsers/tree/euler/printer_mods/henrikssn/euler_extruder  
-
+[Tripnutz's](https://www.thingiverse.com/tripnutz/designs) ePIc snapPI hinged pi case: https://www.thingiverse.com/thing:2747502
 ###### Update 09-02-2022
 ```
 1. The X-carriage BL Touch mod for Switchwire was made for e3d V6 Hotend only. So i have decided to drop it.
@@ -26,4 +26,9 @@
 ###### Update 7-03-2022
 ```
 1. Added my printer's slicer configs.
+```
+###### Update 29-03-2022
+```
+1. Added the stl file for modified 6mm filament feed slot
+2. Added the stl files for my custom pi case
 ```
